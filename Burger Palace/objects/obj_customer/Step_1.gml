@@ -20,10 +20,11 @@ if place_meeting(x,y,obj_burger) && burger_id.sprite_index == spr_burger
 	dest = x;
 }
 
-}
 
 
 if happymeter == 2
 {
 	happy = true;
+}
+
 }

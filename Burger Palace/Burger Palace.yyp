@@ -28,7 +28,6 @@
     {"id":{"name":"obj_grill","path":"objects/obj_grill/obj_grill.yy",},},
     {"id":{"name":"obj_patty","path":"objects/obj_patty/obj_patty.yy",},},
     {"id":{"name":"obj_plate","path":"objects/obj_plate/obj_plate.yy",},},
-    {"id":{"name":"obj_timer","path":"objects/obj_timer/obj_timer.yy",},},
     {"id":{"name":"obj_trash","path":"objects/obj_trash/obj_trash.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_bunbottom","path":"sprites/spr_bunbottom/spr_bunbottom.yy",},},
